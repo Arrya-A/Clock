@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+    overflow: hidden;
+    font-family: "Ubuntu", sans-serif;
+}
+.clock h1{
+    font-size: 100px;
+    color: rgb(192, 101, 69);
+}
